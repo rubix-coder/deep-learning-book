@@ -12,7 +12,7 @@ A collection of standalone TensorFlow and PyTorch models in Jupyter Notebooks.
 - Multilayer Perceptron [[TensorFlow](tensorflow_ipynb/multilayer-perceptron.ipynb)] [[PyTorch](pytorch_ipynb/multilayer-perceptron.ipynb)]
 - Multilayer Perceptron with Dropout [[TensorFlow](tensorflow_ipynb/multilayer-perceptron-dropout.ipynb)] [[PyTorch](pytorch_ipynb/multilayer-perceptron-dropout.ipynb)]
 - Multilayer Perceptron with Batch Normalization [[TensorFlow](tensorflow_ipynb/multilayer-perceptron-batchnorm.ipynb)] [[PyTorch](pytorch_ipynb/multilayer-perceptron-batchnorm.ipynb)]
-- Multilayer Perceptron with Backpropagation from Scratch [[TensorFlow](tensorflow_ipynb/multilayer-perceptron-lowlevel.ipynb)]
+- Multilayer Perceptron with Backpropagation from Scratch [[TensorFlow](tensorflow_ipynb/multilayer-perceptron-lowlevel.ipynb)] [[PyTorch](pytorch_ipynb/mlp-fromscratch__sigmoid-mse.ipynb)]
 
 ### Convolutional Classifiers
 
@@ -70,7 +70,7 @@ A collection of standalone TensorFlow and PyTorch models in Jupyter Notebooks.
 
 ## General Adversarial Networks
 
-- General Adversarial Networks [[TensorFlow](tensorflow_ipynb/gan.ipynb)]
+- General Adversarial Networks [[TensorFlow](tensorflow_ipynb/gan.ipynb)] [[PyTorch](pytorch_ipynb/gan.ipynb)]
 - Convolutional General Adversarial Networks [[TensorFlow](tensorflow_ipynb/gan-conv.ipynb)]
 
 ## Tips and Tricks
@@ -94,6 +94,7 @@ A collection of standalone TensorFlow and PyTorch models in Jupyter Notebooks.
 
 **Other**
 
+- [Sequential API and hooks](pytorch_ipynb/mlp-sequential.ipynb)
 - [Getting Gradients of an Intermediate Variable in PyTorch](pytorch_ipynb/manual-gradients.ipynb)
 - [Weight Sharing Within a Layer](pytorch_ipynb/convnet-weight-sharing.ipynb)
 - [Plotting Live Training Performance in Jupyter Notebooks with just Matplotlib](pytorch_ipynb/plot-jupyter-matplotlib.ipynb)
